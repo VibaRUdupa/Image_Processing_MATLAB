@@ -1,6 +1,6 @@
 %% import image
 clear;
-clc;
+clc; 
 
 obj = imread('ball2.jpg');  %name of image file with extension.
 %obj is mXnX3 matrix as it has 
