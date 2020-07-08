@@ -6,9 +6,6 @@ The steps followed are:
 
 i. import image.(object should be easily identifiable in the image.) 
 
-![Figure 1](https://github.com/VibaRUdupa/Image_Processing_MATLAB/blob/master/Image_for_linking/figure%201.PNG)
-
-
 ii. split the image into primary colors Red, Green, Blue. After observing the output, the image with maximum contrast is selected. 
 This is done to ensure that the binary image we will produce in next step is of best possible quality. 
 
