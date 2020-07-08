@@ -30,7 +30,7 @@ title('Green image')
 
 subplot( 2 , 2 , 4 );   %subplot of grid 2X2 and the position of this is 4.
 imshow(red)
-title('Blue image')
+title('Blue image') 
 
 %after seeing the output, select the image which has maximum contrast in
 %colors for further part of the program.
