@@ -11,5 +11,6 @@ Note: As new scripts are updated, this README.md file will be updated.
   The script and techniques employed are specified in the folder Measure_with_image(https://github.com/VibaRUdupa/Image_Processing_MATLAB/tree/master/Measure_from_image) 
   with the title "README.md (https://github.com/VibaRUdupa/Image_Processing_MATLAB/blob/master/Measure_from_image/README.md).
   FINAL OUTPUT:
-  ![Result](https://github.com/VibaRUdupa/Image_Processing_MATLAB/blob/master/Image_for_linking/figure%204.PNG =24x48)
+  
+  <img src = "https://github.com/VibaRUdupa/Image_Processing_MATLAB/blob/master/Image_for_linking/figure%204.PNG" height = "500" width = "500" >
   
