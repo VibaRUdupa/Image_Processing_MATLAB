@@ -17,3 +17,15 @@ Note: As new scripts are updated, this README.md file will be updated.
   
   <img src = "https://github.com/VibaRUdupa/Image_Processing_MATLAB/blob/master/Image_for_linking/figure%204.PNG" height = "500" width = "500" >
   
+  
+  
+### 2. Automatic Number Plate Recognition
+
+The second script added automatically detects the registration number of the car passing by the camera placed at correct location. 
+
+The script and techniques employed are specified in the folder Automatic_Number_plate_recognition(https://github.com/VibaRUdupa/Image_Processing_MATLAB/tree/master/Automatic_Number_Plate_Recognition) with the title "README.md"(https://github.com/VibaRUdupa/Image_Processing_MATLAB/blob/master/Automatic_Number_Plate_Recognition/README.md).
+
+##### FINAL OUTPUT:
+
+<img src = "https://github.com/VibaRUdupa/Image_Processing_MATLAB/blob/master/Image_for_linking/apn_fig9.PNG" height = "500" width = "600" >
+
